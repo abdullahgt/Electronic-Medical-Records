@@ -1,0 +1,39 @@
+.wrapper {
+    padding: 5px 20px;
+}
+
+.wrapper fieldset {
+    margin: 20px 0;
+}
+
+h1 {
+    font-size: 40px;
+  }
+
+
+p {
+    font-size: 14px;
+  }
+
+.btnsubmit {
+display:inline-block;
+padding:0.35em 1.2em;
+border:0.1em solid #2a8461;
+margin:0 0.3em 0.3em 0;
+border-radius:0.12em;
+box-sizing: border-box;
+text-decoration:none;
+font-family:'Roboto',sans-serif;
+font-weight:300;
+color:#0d0d0d;
+text-align:center;
+transition: all 0.2s;
+  }
+
+  .btnsubmit:hover{
+    color:#000000;
+    background-color:#a861a5;
+    }
+.width {
+    width: 75px;
+}
